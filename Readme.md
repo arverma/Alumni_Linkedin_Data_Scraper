@@ -3,7 +3,7 @@
 
 
 ### Sample Profile Response
-```json
+```
 {
   'lastName': 'Ranjan Verma', 
   'student': False, 
