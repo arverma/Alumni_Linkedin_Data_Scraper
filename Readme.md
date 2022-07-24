@@ -1,5 +1,4 @@
-
-
+### Want us to know your LinkedIn UserId, Please fill the form sent to your @iiitmanipur emailid
 
 
 ### Sample Profile Response
