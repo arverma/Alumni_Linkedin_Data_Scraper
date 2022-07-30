@@ -1,0 +1,41 @@
+# data = {'industryName': 'IT Services and IT Consulting', 'lastName': 'Pratap', 'address': 'Jyoti Kunj 
+        # Colony, Tundla , Firozabad , Uttar Pradesh ,283204', 'locationName': 'India', 'student': False, 
+        # 'geoCountryName': 'India', 'geoCountryUrn': 'urn:li:fs_geo:102713980', 'geoLocationBackfilled': False, 
+        # 'elt': True, 'birthDate': {'month': 2, 'day': 8}, 'industryUrn': 'urn:li:fs_industry:96', 'firstName': 
+        # 'Anit', 'entityUrn': 'urn:li:fs_profile:ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws', 'geoLocation': {'geoUrn':
+        # 'urn:li:fs_geo:105725663'}, 'geoLocationName': 'Tundla, Uttar Pradesh', 'location': {'basicLocation': {
+        # 'countryCode': 'in'}}, 'headline': 'Software Engineer at Capgemini Engineering || Cloud Services || 
+        # Automation', 'displayPictureUrl': 'https://media-exp1.licdn.com/dms/image/C5603AQHDK5UKnMaYiA/profile
+        # -displayphoto-shrink_', 'profile_id': 'ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws', 'experience': [{
+        # 'locationName': 'Gurugram, Haryana, India', 'entityUrn': 'urn:li:fs_position:(
+        # ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws,1840225755)', 'geoLocationName': 'Gurugram, Haryana, India', 
+        # 'geoUrn': 'urn:li:fs_geo:106442238', 'companyName': 'Capgemini Engineering', 'timePeriod': {'startDate': {
+        # 'month': 9, 'year': 2021}}, 'company': {'employeeCountRange': {'start': 10001}, 'industries': ['Information
+        # Technology and Services']}, 'title': 'Software Engineer', 'region': 'urn:li:fs_region:(in,0)', 
+        # 'companyUrn': 'urn:li:fs_miniCompany:72092703', 'companyLogoUrl': 
+        # 'https://media-exp1.licdn.com/dms/image/C4D0BAQGcNoU1nVm4Wg/company-logo_'}], 'skills': [{'name': 'C (
+        # Programming Language)', 'standardizedSkillUrn': 'urn:li:fs_miniSkill:438', 'standardizedSkill': {'name': 'C
+        # (Programming Language)', 'entityUrn': 'urn:li:fs_miniSkill:438'}}, {'name': 'Python (Programming 
+        # Language)', 'standardizedSkillUrn': 'urn:li:fs_miniSkill:1346', 'standardizedSkill': {'name': 'Python (
+        # Programming Language)', 'entityUrn': 'urn:li:fs_miniSkill:1346'}}, {'name': 'MySQL', 
+        # 'standardizedSkillUrn': 'urn:li:fs_miniSkill:380', 'standardizedSkill': {'name': 'MySQL', 'entityUrn': 
+        # 'urn:li:fs_miniSkill:380'}}, {'name': 'PHP', 'standardizedSkillUrn': 'urn:li:fs_miniSkill:261', 
+        # 'standardizedSkill': {'name': 'PHP', 'entityUrn': 'urn:li:fs_miniSkill:261'}}, {'name': 'Android Studio', 
+        # 'standardizedSkillUrn': 'urn:li:fs_miniSkill:55003', 'standardizedSkill': {'name': 'Android Studio', 
+        # 'entityUrn': 'urn:li:fs_miniSkill:55003'}}, {'name': 'HTML5'}, {'name': 'Cascading Style Sheets (CSS)'}, 
+        # {'name': 'Javascript'}, {'name': 'Jquery'}, {'name': 'Bootstrap'}, {'name': 'Git'}, {'name': 'Jupyter 
+        # notebook'}, {'name': 'Software Engineering'}, {'name': 'cloud'}], 'education': [{'entityUrn': 
+        # 'urn:li:fs_education:(ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws,567914332)', 'school': {'objectUrn': 
+        # 'urn:li:school:4165000', 'entityUrn': 'urn:li:fs_miniSchool:4165000', 'active': True, 'schoolName': 'Indian
+        # Institute of Information Technology Senapati, Manipur', 'trackingId': 'wSRRZ10YSt+qYjGV/FluHA==', 
+        # 'logoUrl': 'https://media-exp1.licdn.com/dms/image/C560BAQEugDh96mCy9Q/company-logo_'}, 'timePeriod': {
+        # 'endDate': {'month': 6, 'year': 2021}, 'startDate': {'month': 8, 'year': 2017}}, 'degreeName': 'Bachelor of
+        # Technology - BTech', 'schoolName': 'Indian Institute of Information Technology Senapati, Manipur', 
+        # 'fieldOfStudy': 'Computer Science And Engineering', 'degreeUrn': 'urn:li:fs_degree:250', 'schoolUrn': 
+        # 'urn:li:fs_miniSchool:4165000'}, {'entityUrn': 'urn:li:fs_education:(
+        # ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws,737512427)', 'grade': '85.2%', 'timePeriod': {'endDate': {'month': 
+        # 5, 'year': 2016}, 'startDate': {'month': 7, 'year': 2014}}, 'degreeName': 'Higher Secondary', 'schoolName':
+        # 'O. D. V. INTER COLLEGE TUNDLA FIROZABAD'}, {'entityUrn': 'urn:li:fs_education:(
+        # ACoAACmNJJIBCnbZ3nip6zpdUcYHJydYhECelws,737513198)', 'grade': '85.3%', 'timePeriod': {'endDate': {'month': 
+        # 5, 'year': 2014}, 'startDate': {'month': 7, 'year': 2013}}, 'degreeName': 'Senior Secondary', 'schoolName':
+        # 'TUNDLA PUBLIC H S S TUNDLA FIROZABAD'}]} 
