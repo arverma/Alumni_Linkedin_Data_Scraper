@@ -1,7 +1,25 @@
+### Result
+[Link](data/linkedin_profile_details.csv)
+
+#### Schema:
+```
+Root
+    -- Name: String
+    -- Batch: String
+    -- Headline: String
+    -- Experiance_1: List[String]
+    -- Experiance_2: List[String]
+    -- Experiance_3: List[String]
+    -- Skills: List[String]
+    -- Locations: List[String]
+```
+
 ### Want us to know your LinkedIn UserId, Please fill the form sent to your @iiitmanipur emailid
 
 
 ### Sample Profile Response
+<details><summary>Response</summary>
+
 ```
 {
   'lastName': 'Ranjan Verma', 
@@ -316,5 +334,6 @@
       }
     ]
   }
-
 ```
+
+ </details>
